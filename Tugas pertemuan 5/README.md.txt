@@ -1,0 +1,2 @@
+-Pada program ini menampilkan data kendaraan bermotor
+-Untuk hierarkinya motor sebagai ayah motor1 sebagai anak
