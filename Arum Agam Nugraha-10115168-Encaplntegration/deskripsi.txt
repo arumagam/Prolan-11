@@ -1,0 +1,5 @@
+Perbedaan abstrack dan encasulapsi
+-Proses enkapsulasi memudahkan kita untuk menggunakan sebuah objek dari suatu kelas 
+ karena kita tidak perlu mengetahui segala hal secara rinci
+-Encapsulation hanya bisa dibaca saja
+-Lebih mudah menggunakan encasulapsi
